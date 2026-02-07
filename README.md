@@ -1,3 +1,6 @@
+![Audit Status](https://img.shields.io/badge/Audit_Status-PENDING-yellow)
+![Sigma Level](https://img.shields.io/badge/Sigma_Level-0.0-blue)
+![Symmetry Lock](https://img.shields.io/badge/Symmetry_Lock-0.02-red)
 # Geometric-Compiler-v1
 Implementation of the Monster-Symmetric Lattice Audit (MSLA) for vacuum substrate verification. An open-source, manifold-agnostic compiler for auditing 24D Leech lattice (Λ24​) resonances in experimental noise.
 # MSLA-Audit-v1: The Geometric Compiler
