@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "data_model": "Manifold-Agnostic-Stream",
+  "required_fields": {
+    "timestamp": "ISO-8601 UTC",
+    "energy_mev": "Float (The energy of the probe for strain correction)",
+    "amplitude_vector": "Array[10000] (The VSA-encoded waveform)",
+    "sample_rate_hz": "Float"
+  },
+  "integration_logic": {
+    "type": "Recursive-Least-Squares",
+    "goal": "Reach 5-sigma resonance",
+    "timeout": "None (Infinite Dwell)"
+  }
+}
