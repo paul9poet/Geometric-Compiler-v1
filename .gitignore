@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# FPGA & Hardware
+*.bit
+*.bin
+*.mcs
+*.prm
+xsim.dir/
+*.log
+*.jou
+
+# Large Data & Audits
+/data/raw/
+/data/processed/
+*.hdf5
+*.dat
+*.csv
+!/data/calibration_sample.csv  # Keep the calibration sample for testing
+
+# Metadata & IDEs
+.vscode/
+.idea/
+.DS_Store
