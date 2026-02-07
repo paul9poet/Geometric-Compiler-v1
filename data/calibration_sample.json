@@ -1,0 +1,14 @@
+{
+  "source": "INTERNAL_CALIBRATION_GOLDEN_SET",
+  "energy_mev": 0.0,
+  "timestamp": "2026-02-07T22:40:00Z",
+  "metadata": {
+    "target_sigma": 10.0,
+    "description": "Perfect Leech Lattice Projection for Pipeline Verification"
+  },
+  "data": {
+    "psi_lock_signal": 0.992,
+    "void_count": 7,
+    "noise_floor": 0.001
+  }
+}
