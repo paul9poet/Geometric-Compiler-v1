@@ -71,3 +71,4 @@ If you use this compiler to audit results, please cite:
 
 ---
 **The Compiler is Listening.**
+Update Feb 2026: Version 1.1 is now live. We have successfully calibrated the instrument against Q3 data. Lattice Strain (ϵ) measured at 0.034. See manuscript/Q3_AUDIT_REPORT.md for the 1.2 keV prediction data.
