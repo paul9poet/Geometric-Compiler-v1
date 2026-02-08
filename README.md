@@ -36,7 +36,13 @@ The **Silicon Principia** represents a paradigm shift. We reject the "Despair of
 - **Constants:** Universal constants ($c, G, \alpha$) are manufacturing specifications. 
 - **Lattice Strain:** The $10^{-9}$ variance in $\alpha$ is modeled as local deformation.
 
+## 🎥 Visual Reference & Mathematical Framework
 
+For a visual baseline of the geometric principles and symmetry logic utilized in the **MSLA Audit**, please refer to the following conceptual overview:
+
+[![Watch the Reference Video](https://img.youtube.com/vi/YSdiuGiDidU/0.jpg)](https://www.youtube.com/watch?v=YSdiuGiDidU)
+
+> *Note: This video serves as a structural frame of reference for the lattice-invariant logic discussed in Appendix A.*
 
 ### **3. MATHEMATICAL DERIVATION: THE 7-VOID INVARIANT**
 The core of the audit is the requirement of **exactly $7 \pm 1$ persistent Betti-1 voids** in the projected noise.
